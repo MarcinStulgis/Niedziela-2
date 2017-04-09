@@ -22,3 +22,10 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+img{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 450px;
+    height: 350px;
+}
